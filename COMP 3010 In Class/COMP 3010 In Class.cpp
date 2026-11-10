@@ -15,6 +15,9 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "Hello World!\n";
     //add a comment to explain stuff
+    std::cout << "Submission by [Your Full Name] - COMP-3010" <<std::endl;
+
+
 }
 
 void fun()
